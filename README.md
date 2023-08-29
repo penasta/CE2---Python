@@ -1,1 +1,2 @@
-# CE2---Python
+# CE2 - Python
+## Prof. Eduardo Monteiro
